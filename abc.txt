@@ -1,2 +1,6 @@
  i wanna learn python scripting
 		firstly data type
+third line added as a code
+making some changes with git stash
+
+learning git
