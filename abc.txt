@@ -4,3 +4,6 @@ third line added as a code
 making some changes with git stash
 
 learning git
+djsfgghkhktjhh  ffgjyhtjgrtgnejrjhrj
+checking merge conflict
+
